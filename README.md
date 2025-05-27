@@ -1,0 +1,2 @@
+# NatADiff
+Natural adversarial diffusion
